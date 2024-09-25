@@ -1,7 +1,6 @@
 import random
 
 computer_number = random.randint(1, 100)
-player_choice = 0
 
 while True:
     player_input = input('Try to guess the number that the computer has picked between 1 - 100: ')
