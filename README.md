@@ -10,9 +10,11 @@ The game ends either when the user has reached the maximum number of levels or w
 The project mainly uses loops, specifically the while loop, various algorithms, technologies and libraries. Mostly different if-else checks for game results. Also a random number generation library.
 
 # Source code link
-https://pastebin.com/H7gJvrLW
+[https://pastebin.com/H7gJvrLW](https://pastebin.com/SR7PTawt)
 
 # Screenshots
 Output of the code:
+
+![Екранна снимка 2024-09-29 181353](https://github.com/user-attachments/assets/48206a92-434d-4ced-aab0-2f6feb86c83e)
 
 
