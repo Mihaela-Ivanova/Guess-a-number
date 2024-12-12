@@ -13,7 +13,7 @@ The project mainly uses loops, specifically the while loop, various algorithms, 
 # 💻 Source code link
 [https://pastebin.com/H7gJvrLW](https://pastebin.com/SR7PTawt)
 
-# Screenshots
+# 🔍 Screenshots
 Output of the code:
 
 ![Екранна снимка 2024-09-29 181353](https://github.com/user-attachments/assets/48206a92-434d-4ced-aab0-2f6feb86c83e)
